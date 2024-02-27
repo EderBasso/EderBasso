@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Eder Basso</h1>
 <h3 align="center">A Mechanical Engineer by training, Software Developer by trade</h3>
 
-- 🔭 I’m currently working as a Java developer at [Sinqia](https://sinqia.com.br/)
+- 🔭 I’m currently working as a Software Engineer at [Sinqia](https://sinqia.com.br/)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Angular**
 
 - 👨‍💻 All of my projects are available at [https://github.com/EderBasso](https://github.com/EderBasso)
 
