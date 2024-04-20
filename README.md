@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Éder Basso</h1>
-<h3 align="center">A Mechanical turned Software Engineer!</h3>
+<h3 align="center">A Mechanical Enginner turned Software Developer!</h3>
 
 - 🔭 I’m currently working as a Java Software Engineer at [Sinqia](https://sinqia.com.br/)
 
